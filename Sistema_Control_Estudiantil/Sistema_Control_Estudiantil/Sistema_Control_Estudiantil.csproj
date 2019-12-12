@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{468C4427-0DAD-46C3-9A19-96AE731C1637}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sistema_Control_Estudiantil</RootNamespace>
+    <AssemblyName>Sistema_Control_Estudiantil</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\..\Desktop\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.2\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.5.1.1345, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.5.1\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBaseConexion\Conexion.cs" />
+    <Compile Include="Entities\Student.cs" />
+    <Compile Include="Entities\Teacher.cs" />
+    <Compile Include="InformationStudentInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationStudentInterface.Designer.cs">
+      <DependentUpon>InformationStudentInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationTeacherIntercace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationTeacherIntercace.Designer.cs">
+      <DependentUpon>InformationTeacherIntercace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewTeacherInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewTeacherInterface.Designer.cs">
+      <DependentUpon>NewTeacherInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QAForStudentInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QAForStudentInterface.Designer.cs">
+      <DependentUpon>QAForStudentInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\TypeOfCommand.cs" />
+    <Compile Include="ScheduleSectionsForStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleSectionsForStudent.Designer.cs">
+      <DependentUpon>ScheduleSectionsForStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sections.Designer.cs">
+      <DependentUpon>Sections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SectionTeacherInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SectionTeacherInterface.Designer.cs">
+      <DependentUpon>SectionTeacherInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentLogin.Designer.cs">
+      <DependentUpon>StudentLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Interface.Designer.cs">
+      <DependentUpon>Student_Interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherLogin.Designer.cs">
+      <DependentUpon>TeacherLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher_Interface.Designer.cs">
+      <DependentUpon>Teacher_Interface.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="InformationStudentInterface.resx">
+      <DependentUpon>InformationStudentInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationTeacherIntercace.resx">
+      <DependentUpon>InformationTeacherIntercace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewTeacherInterface.resx">
+      <DependentUpon>NewTeacherInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QAForStudentInterface.resx">
+      <DependentUpon>QAForStudentInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScheduleSectionsForStudent.resx">
+      <DependentUpon>ScheduleSectionsForStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sections.resx">
+      <DependentUpon>Sections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SectionTeacherInterface.resx">
+      <DependentUpon>SectionTeacherInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentLogin.resx">
+      <DependentUpon>StudentLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Interface.resx">
+      <DependentUpon>Student_Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherLogin.resx">
+      <DependentUpon>TeacherLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_Interface.resx">
+      <DependentUpon>Teacher_Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Active Sections\" />
+    <Folder Include="GeneralMethods\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Materiales_Iconos\boss_man-128.png" />
+    <Content Include="Materiales_Iconos\cerrar.png" />
+    <Content Include="Materiales_Iconos\clientes.png" />
+    <Content Include="Materiales_Iconos\compras.png" />
+    <Content Include="Materiales_Iconos\empleados.png" />
+    <Content Include="Materiales_Iconos\IMO2.png" />
+    <Content Include="Materiales_Iconos\LoginIcons\padlock %281%29.png" />
+    <Content Include="Materiales_Iconos\LoginIcons\user %281%29.png" />
+    <Content Include="Materiales_Iconos\marca.png" />
+    <Content Include="Materiales_Iconos\maxi.png" />
+    <Content Include="Materiales_Iconos\minimazar.png" />
+    <Content Include="Materiales_Iconos\Mobile-Menu-Icon.png" />
+    <Content Include="Materiales_Iconos\new iconos\Clientes.png" />
+    <Content Include="Materiales_Iconos\new iconos\compras.png" />
+    <Content Include="Materiales_Iconos\new iconos\empleados.png" />
+    <Content Include="Materiales_Iconos\new iconos\icon cerrar2.png" />
+    <Content Include="Materiales_Iconos\new iconos\icon maximizar.png" />
+    <Content Include="Materiales_Iconos\new iconos\icon minimizar.png" />
+    <Content Include="Materiales_Iconos\new iconos\icon restaurar.png" />
+    <Content Include="Materiales_Iconos\new iconos\pagos.png" />
+    <Content Include="Materiales_Iconos\new iconos\prodcutos.png" />
+    <Content Include="Materiales_Iconos\new iconos\reloj.png" />
+    <Content Include="Materiales_Iconos\new iconos\ventas.png" />
+    <Content Include="Materiales_Iconos\pagos.png" />
+    <Content Include="Materiales_Iconos\prodcutos.png" />
+    <Content Include="Materiales_Iconos\producto.png" />
+    <Content Include="Materiales_Iconos\reportes.png" />
+    <Content Include="Materiales_Iconos\res.png" />
+    <Content Include="Materiales_Iconos\School Icons\atom.png" />
+    <Content Include="Materiales_Iconos\School Icons\bookshelf.png" />
+    <Content Include="Materiales_Iconos\School Icons\diploma.png" />
+    <Content Include="Materiales_Iconos\School Icons\medal.png" />
+    <Content Include="Materiales_Iconos\School Icons\professor.png" />
+    <Content Include="Materiales_Iconos\School Icons\student.png" />
+    <Content Include="Materiales_Iconos\School Icons\study.png" />
+    <Content Include="Materiales_Iconos\School Icons\textbook.png" />
+    <Content Include="Materiales_Iconos\School Icons\university.png" />
+    <Content Include="Materiales_Iconos\venta.png" />
+    <Content Include="Materiales_Iconos\ventas.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,158 @@
+﻿#Header {
+    background-color: #501b96;
+    text-align: center;
+}
+
+#Header #Logo img{
+
+    height: 80px;
+    line-height: 80px;
+    width: 80px;
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Menu {
+    position: sticky;
+    z-index: 1;
+    top: 0px;
+    opacity: 0.95;
+    transition: 0.5s;
+}
+
+#Menu:hover {
+    opacity: 1;
+    transition: 0.3s;
+}
+
+
+#Col1 {
+    height: 350px;
+    line-height: 350px;
+    background-color: #2a38a3;
+    color: white;
+    transition: 0.5s;
+}
+
+#Col2 {
+    height: 350px;
+    line-height: 350px;
+    background-color: #2a38a3;
+    color: white;
+    transition: 0.5s;
+}
+
+#Col4 {
+    height: 350px;
+    line-height: 350px;
+    background-color: #2a38a3;
+    color: white;
+    transition: 0.5s;
+}
+
+#Col3 {
+    height: 350px;
+    line-height: 350px;
+    background-color: #2a38a3;
+    color: white;
+    transition: 0.5s;
+}
+
+#Col1:hover, #Col2:hover, #Col4:hover, #Col3:hover {
+    transition: 0.5s;
+    transform: scale(0.99);
+}
+
+
+
+
+#Col5:hover span, #Col6:hover span {
+    transition: 0.3s;
+    opacity: 1.0;
+    display: block;
+    height: 30px;
+    line-height: 300px;
+    padding-bottom: 23%;
+    background-color: rgba(52, 73, 94, 0.90);
+}
+
+
+#Col5 {
+    height: 650px;
+    margin-top: 10px;
+    line-height: 40px;
+    color: white;
+    background-image: url('../Images/StyleWeb.png');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    transition: 0.1s;
+    overflow: hidden;
+}
+
+.LinkDiv {
+    text-decoration: none;
+}
+
+#Col5:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+    transform: scale(0.97);
+}
+
+#Col6 {
+    height: 650px;
+    margin-top: 10px;
+    line-height: 40px;
+    color: white;
+    background-image: url('../Images/Electronics.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    transition: 0.1s;
+}
+
+#Col6:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+    transform: scale(0.97);
+}
+
+#Col7 {
+    height: 200px;
+    line-height: 200px;
+    background-image: url();
+    background-position: bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#Footer{
+	background-color: #2d233a;
+	text-align: center;
+	height: 100px;
+	line-height: 40px;
+	color: white;
+	clear: both;
+}
+#Footer ul{
+	list-style: none;
+}
+#Footer ul li{
+	margin-left: 80px;
+	margin-right: 80px;
+	display: inline;
+	background-color: #2d233a;
+}
+#Footer ul li a{
+	padding: 11px;
+	text-decoration: none;
+	color: white;
+	transition: 0.3s;
+}
+#Footer ul li a:hover{
+	background-color: white;
+	color: #000;
+	transition: 0.5s;
+}

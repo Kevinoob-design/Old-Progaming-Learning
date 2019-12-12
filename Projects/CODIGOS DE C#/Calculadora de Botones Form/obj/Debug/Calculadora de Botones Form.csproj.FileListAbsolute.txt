@@ -1,0 +1,38 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Calculadora.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe.config
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Calculadora.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Properties.Resources.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.GenerateResource.Cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.pdb
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe.config
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.pdb
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Calculadora.resources
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Properties.Resources.resources
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.GenerateResource.Cache
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.CoreCompileInputs.cache
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.exe
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.pdb
+E:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csprojAssemblyReference.cache
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe.config
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.exe
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\bin\Debug\Calculadora de Botones Form.pdb
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csprojAssemblyReference.cache
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Calculadora.resources
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora_de_Botones_Form.Properties.Resources.resources
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.GenerateResource.cache
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.csproj.CoreCompileInputs.cache
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.exe
+F:\Programacion\Projects\CODIGOS DE C#\Calculadora de Botones Form\obj\Debug\Calculadora de Botones Form.pdb

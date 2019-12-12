@@ -1,0 +1,12 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.pdb
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.exe.config
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.exe
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\bin\Debug\Nueva Calculadora en C Sharp.pdb
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.csproj.CoreCompileInputs.cache
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.exe
+E:\Programacion\Projects\CODIGOS DE C#\Nueva Calculadora en C Sharp\obj\Debug\Nueva Calculadora en C Sharp.pdb

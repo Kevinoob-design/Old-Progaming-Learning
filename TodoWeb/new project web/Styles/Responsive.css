@@ -1,0 +1,66 @@
+@media(max-width: 804px) {
+
+    #Aside-Container {
+
+        display: none;
+    }
+
+    .Secondury-Content {
+
+        width: 97% !important;
+    }
+
+    .Announcement {
+
+        padding-top: 0%;
+    }
+
+    #Main-Content-Container {
+
+        height: 4810px !important;
+    }
+
+    #Sundary-Content-Container {
+
+        height: 89% !important;
+    }
+    
+    #Primary-Content{
+        
+        max-height: 250px;
+    }
+    
+    #Bottom-Mini-Content{
+        
+        margin-top: 220px !important;
+    }
+    
+        #Copy{
+        
+        margin-top: 1% !important;
+    }
+}
+@media(min-width: 1800px) {
+
+    .Secondury-Content {
+
+        width: 30% !important;
+    }
+
+    #Main-Content-Container {
+
+        height: 2060px !important;
+    }
+    
+        #Sundary-Content-Container {
+
+        height: 73% !important;
+    }
+    
+    #Copy{
+        
+        margin-top: 5% !important;
+    }
+
+}
+

@@ -1,0 +1,9 @@
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\bin\SinglePage.dll.config
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\bin\SinglePage.dll
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\bin\SinglePage.pdb
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\obj\Debug\SinglePage.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\obj\Debug\SinglePage.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\obj\Debug\SinglePage.dll
+C:\Users\Hecto\Desktop\AJAX\SinglePage\SinglePage\obj\Debug\SinglePage.pdb

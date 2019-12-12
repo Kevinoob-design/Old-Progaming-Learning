@@ -1,0 +1,9 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\bin\Debug\TimerEnForm.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\bin\Debug\TimerEnForm.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\bin\Debug\TimerEnForm.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.Form1.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.Properties.Resources.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.csproj.GenerateResource.Cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\TimerEnForm\obj\Debug\TimerEnForm.pdb

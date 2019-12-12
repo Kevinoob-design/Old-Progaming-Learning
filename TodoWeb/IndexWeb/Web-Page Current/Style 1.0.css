@@ -1,0 +1,177 @@
+*{
+	margin: 0px;
+}
+
+body{
+	margin: 0px;
+	background-color: #2d233a;
+}
+#BigMain{
+	width: 100%;
+	margin: 0px auto;
+}
+
+/*----------EL HEADER----------*/
+#Header{
+	height: 90px;
+	width: 100%;
+	line-height: 90px;
+	background-color: #501b96;
+}
+#Header #Logo img{
+	height: 80px;
+	line-height: 80px;
+	width: 80px;
+	padding-top: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*
+#Header #Inicio{
+	float: left;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	margin-top:20px;
+	margin-bottom:25px;
+	background-color: black;
+}
+#Header #Inicio a{
+	color: white;
+	text-decoration: none;
+}
+*/
+
+/*----------EL MENU----------*/
+#Menu{
+	background-color: #000;
+	text-align: center;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	position: sticky;
+	top: 0px;
+	opacity: 0.5;
+}
+#Menu:hover{
+	opacity: 1;
+	transition: 0.5s;
+}
+#Menu ul{
+	list-style: none;
+}
+#Menu ul li{
+	margin-left: 40px;
+	margin-right: 40px;
+	display: inline;
+	background-color: #000;
+}
+#Menu ul li a{
+	padding: 12px;
+	text-decoration: none;
+	color: white;
+}
+#Menu ul li a:hover{
+	background-color: white;
+	color: #000;
+	transition: 0.5s;
+}
+
+/*----------EL CONTENIDO----------*/
+#Content{
+	background-color: white;
+	text-align: center;
+}
+#Content #Superior{
+	height: 400px;
+	line-height: 400px;
+}
+#Content #SupIzq{
+	width: 25%;
+	height: 350px;
+	line-height: 350px;
+	float: left;
+	background-color: #2a38a3;
+	color: white;
+	clear: left;
+}
+#Content #SupIzq2{
+	width: 25%;
+	height: 350px;
+	line-height: 350px;
+	float: left;
+	background-color: #2a38a3;
+	color: white;
+	
+}
+#Content #SupDer{
+	width: 25%;
+	height: 350px;
+	line-height: 350px;
+	float: right;
+	background-color: #2a38a3;
+	color: white;
+	clear: right;
+}
+#Content #SupDer2{
+	width: 25%;
+	height: 350px;
+	line-height: 350px;
+	float: right;
+	background-color: #2a38a3;
+	color: white;
+}
+#Content #InfIzq{
+	width: 50%;
+	height: 350px;
+	line-height: 350px;
+	float: left;
+	background-color: #2a38a3; 
+	color: white;
+	clear: left;
+}
+#Content #InfDer{
+	width: 50%;
+	height: 350px;
+	line-height: 350px;
+	float: right;
+	background-color: #2a38a3;
+	color: white;
+	clear: right;
+}
+#Content #Inferior{
+	height: 200;
+	line-height: 200px;
+	clear: both;
+}
+
+/*----------EL FOOTER----------*/
+
+#Footer{
+	background-color: #2d233a;
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	color: white;
+	clear: both;
+}
+#Footer ul{
+	list-style: none;
+}
+#Footer ul li{
+	margin-left: 80px;
+	margin-right: 80px;
+	display: inline;
+	background-color: #2d233a;
+}
+#Footer ul li a{
+	padding: 11px;
+	text-decoration: none;
+	color: white;
+}
+#Footer ul li a:hover{
+	background-color: white;
+	color: #000;
+	transition: 0.5s;
+}

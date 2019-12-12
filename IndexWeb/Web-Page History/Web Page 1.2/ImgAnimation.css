@@ -1,0 +1,31 @@
+#Superior{
+	
+	margin: 0px;
+	overflow: hidden;
+	border: 3px solid black;
+}
+
+#Superior a{
+	display: block;
+	color: white;
+	background-image: url(Culebra.jpg);
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: 500ms;
+}
+#Superior a:hover{
+	transform: scale(1.1);
+	transition: 500ms;
+}
+#Superior a h1{
+	transition: 0.5s;
+	opacity: 0.0;
+}
+#Superior a:hover h1{
+	font-size: 175%;
+	transition: 0.5s;
+	background-color: rgba(52, 73, 94, 0.40);
+	opacity: 1.0;
+}
+

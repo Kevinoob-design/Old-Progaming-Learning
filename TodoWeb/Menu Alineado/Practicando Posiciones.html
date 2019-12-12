@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+	
+	{
+		border: 1px solid black;
+	}
+
+	ul{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	a{
+		text-decoration: none;
+		color: white;
+		margin: 16px;
+		padding: 10px;
+		font-size: 25px;
+
+	}
+	a:hover{
+		background-color: black;
+	}
+
+	#Menu{
+		text-align: center;
+		padding: 10px;
+		background-color: #5b007a;
+	}
+
+	li{
+		display: inline;
+	}
+
+	#Header{
+		font-size: 30px;
+		text-align: center;
+		
+	}
+	#Izquierdo{
+		background-color: blue;
+		height: 400px;
+		line-height: 350px;
+		float: left;
+		width: 50%;
+	}
+	#Derecho{
+		background-color: green;
+		height: 400px;
+		line-height: 350px;
+		float: right;
+		width: 50%;	
+	}
+	#Principal{
+		font-size: 30px;
+		text-align: center;
+		background-color: black;
+		padding: 70px;
+		padding-left: 22%;
+		padding-right: 22%;
+	}
+	#Fondo{
+		font-size: 30px;
+		text-align: center;
+		background-color: red;
+		padding: 70px;
+		padding-left: 22%;
+		padding-right: 22%;
+		clear: both;
+	}
+	#Footer{
+		background-color: gray;
+		text-align: center;
+	}
+
+	p{
+		color: white;
+	}
+
+	#TheForm{
+		color: white;
+		display: table;
+		background-color: #2c8f77;
+		border: solid 2px black;
+		padding: 15px;
+	}
+	.Row{
+		display: table-row;
+	}
+	.Row label{
+		display: table-cell;
+		padding: 2px;
+	}
+	.Row input{
+		display: table-cell;
+		padding: 2px
+	}
+
+	</style>
+
+	<title>Practica</title>
+</head>
+<body>
+
+	<div id="Menu">
+		<ul>
+			<li><a href="">Home</a></li>
+			<li><a href="">About Us</a></li>
+			<li><a href="">PC Cases</a></li>
+			<li><a href="">Contact</a></li>
+			<li><a href="">Pc Monitoring</a></li>
+		</ul>
+	</div>
+
+	<div id="Principal"><p>CUADRO DEL MEDIO</p></div>
+
+	<div id="Header">
+		<div id="Izquierdo"><p>CUADRO DE LA IZQUIERDA</p></div>
+		<div id="Derecho"><p>CUADRO DE LA DERECHA</p></div>
+	</div>
+
+	<div id="Fondo"><p>CUADRO DEL FONDO</p></div>
+	<div id="Footer"><p>FINAL DE LA PAGINA</p></div>
+
+	<form id="TheForm">
+
+		<div class="Row">
+			<label for="Name">Name:</label>
+			<input id="Name" type="" name="">
+		</div>
+
+		<div class="Row">
+			<label for="Lastname">Lastname:</label>
+			<input id="Lastname" type="" name="">
+		</div>
+
+		<div class="Row">
+			<label for="Email">Email:</label>
+			<input id="Email" type="" name=""></div>
+	</form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\bin\Debug\CalculadoraWindowsWPF.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\bin\Debug\CalculadoraWindowsWPF.exe
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\bin\Debug\CalculadoraWindowsWPF.pdb
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\App.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF_MarkupCompile.cache
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF_MarkupCompile.lref
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\MainWindow.baml
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.g.resources
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.exe
+C:\Users\Hecto\OneDrive\Escritorio\CalculadoraWindowsWPF\CalculadoraWindowsWPF\CalculadoraWindowsWPF\obj\Debug\CalculadoraWindowsWPF.pdb

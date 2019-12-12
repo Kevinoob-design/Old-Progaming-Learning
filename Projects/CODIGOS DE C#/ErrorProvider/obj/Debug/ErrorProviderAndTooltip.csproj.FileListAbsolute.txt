@@ -1,0 +1,18 @@
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\bin\Debug\ErrorProvider.exe
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\bin\Debug\ErrorProvider.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProviderAndTooltip.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProvider.exe
+c:\users\hecto\documents\visual studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProvider.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\ErrorProvider\obj\Debug\ErrorProviderAndTooltip.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProviderAndTooltip.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProviderAndTooltip.csproj.GenerateResource.Cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\CODIGOS DE C#\ErrorProvider\obj\Debug\ErrorProvider.pdb

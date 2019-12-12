@@ -1,0 +1,20 @@
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.exe.config
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.exe
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.pdb
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csprojAssemblyReference.cache
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.Properties.Resources.resources
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csproj.GenerateResource.cache
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.exe
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.pdb
+C:\Users\Hecto\Desktop\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.Form1.resources
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.exe.config
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.exe
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\bin\Debug\RepasoExamenFinal.pdb
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csprojAssemblyReference.cache
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.Form1.resources
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.Properties.Resources.resources
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csproj.GenerateResource.cache
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.csproj.CoreCompileInputs.cache
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.exe
+F:\Programacion\Projects\CODIGOS DE C#\RepasoExamenFinal\RepasoExamenFinal\obj\Debug\RepasoExamenFinal.pdb

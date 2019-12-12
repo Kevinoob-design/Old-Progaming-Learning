@@ -1,0 +1,7 @@
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\bin\Debug\Enum.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\bin\Debug\Enum.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\bin\Debug\Enum.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\obj\Debug\Enum.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Enum\obj\Debug\Enum.pdb

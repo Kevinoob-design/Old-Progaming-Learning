@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\bin\Debug\Clases y Objetos CSharp.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\bin\Debug\Clases y Objetos CSharp.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\bin\Debug\Clases y Objetos CSharp.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases y Objetos CSharp.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases_y_Objetos_CSharp.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases_y_Objetos_CSharp.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases y Objetos CSharp.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases y Objetos CSharp.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Clases y Objetos CSharp\obj\Debug\Clases y Objetos CSharp.pdb

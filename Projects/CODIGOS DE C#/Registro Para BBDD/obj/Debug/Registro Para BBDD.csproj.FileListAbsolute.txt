@@ -1,0 +1,14 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\bin\Debug\Registro Para BBDD.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\bin\Debug\Registro Para BBDD.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\bin\Debug\Registro Para BBDD.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro Para BBDD.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Principal.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Properties.Resources.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro Para BBDD.csproj.GenerateResource.Cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro Para BBDD.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro Para BBDD.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Eliminar.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Lista.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Modificacion.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Registros.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Registro Para BBDD\obj\Debug\Registro_Para_BBDD.Frm_Salir.resources

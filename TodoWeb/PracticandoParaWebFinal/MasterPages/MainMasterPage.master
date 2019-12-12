@@ -1,0 +1,195 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMasterPage.master.cs" Inherits="MasterPages_MainMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Sports News</title>
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="../Style/Animate.css" rel="stylesheet" />
+    <link href="../Style/bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="../Style/MainStyleSheet.css" rel="stylesheet" />
+
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div id="MainContainer">
+
+        <div id="Header">
+            
+            <div id="UpMenu">
+
+                <div class="Logo">
+                    <img src="../Imgs/microsoft-gray.png" /></div>
+
+                    <div class="Opciones"><a href="#">Office</a></div>
+                    <div class="Opciones"><a href="#">Windows</a></div>
+                    <div class="Opciones"><a href="#">Surface</a></div>
+                    <div class="Opciones"><a href="#">Xbox</a></div>
+                    <div class="Opciones"><a href="#">Ofertas</a></div>
+                    <div class="Opciones"><a href="#">Soporte</a></div>
+
+                    <div class="Opciones"><a id="Mas" href="#">Mas <span class="Arrow"></span></a>
+
+                        <div class="OpcionesParent">
+    
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">Otros</li>
+                            <li class="NombreOpciones"><a href="#"><span>Microsoft Store</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Seguridad y descargas <br /> gratuitas</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Educacion</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Tarjetas regalo</span></a></li>
+                        </ul>
+
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">Desarrollador</li>
+                            <li class="NombreOpciones"><a href="#"><span>.NET</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Visual Studio</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Desarrollar aplicaciones <br /> para Windows</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Documentos</span></a></li>
+                        </ul>
+
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">Empresa</li>
+                            <li class="NombreOpciones"><a href="#"><span>Microsoft Azure</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Microsoft Dynamics 365</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Microsoft 365</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Plataforma en la nube</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Soluciones para Grandes <br /> Organizaciones</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Plataforma de datos</span></a></li>
+                        </ul>
+
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">Entretenimiento</li>
+                            <li class="NombreOpciones"><a href="#"><span>Xbox y Juegos</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Juegos</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Juegos para Windows</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Peliculas y TV</span></a></li>
+                        </ul>
+
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">PCs y dispositivos</li>
+                            <li class="NombreOpciones"><a href="#"><span>PCs & Tablets</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Accesorios</span></a></li>
+                        </ul>
+
+                        <ul class="OpcionesMas">
+
+                            <li class="TituloOpciones">Software</li>
+                            <li class="NombreOpciones"><a href="#"><span>App para Windows</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>One Drive</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Outlook</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>Skype</span></a></li>
+                            <li class="NombreOpciones"><a href="#"><span>One Note</span></a></li>
+                        </ul>
+
+                       </div>
+                    </div>
+                </div>
+
+            <div id="DownMenu">
+
+                    <div class="Logo Logo2 DownOpciones"><img src="../Imgs/RW4ESm.png" /></div>
+
+                    <div class="Opciones"><a href="#">Consolas <span class="Arrow"></span></a>
+
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+
+                    </div>
+
+
+                    <div class="Opciones"><a href="#">Juegos <span class="Arrow"></span></a>
+
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="Opciones"><a href="#">Comunidad <span class="Arrow"></span></a>
+                        
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+                    <div class="Opciones"><a href="#">Accesorios <span class="Arrow"></span></a>
+                        
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+                    <div class="Opciones"><a href="#">Xbox en Windows <span class="Arrow"></span></a>
+                        
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+                    <div class="Opciones"><a href="#">Xbox Soporte tecnico <span class="Arrow"></span></a>
+                        
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+                    <div class="Opciones"><a href="#">Mis Xbox <span class="Arrow"></span></a>
+                        
+                        <ul class="OpcionesDownMenu">
+                            <li class="OpcionDown"><a class="Trigger">Consolas Xbox One</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One X</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox One S</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Xbox para familias</a></li>
+                            <li class="OpcionDown"><a class="Trigger">Comprar consolas</a></li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+
+
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    </form>
+
+    <script src="../Style/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="../Scripts/JQuery/jquery-3.2.1.js"></script>
+
+    <script src="../Scripts/JQuery%20Animations.js"></script>
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

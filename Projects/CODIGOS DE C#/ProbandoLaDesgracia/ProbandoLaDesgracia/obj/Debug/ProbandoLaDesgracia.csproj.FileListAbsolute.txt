@@ -1,0 +1,10 @@
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\bin\Debug\ProbandoLaDesgracia.exe.config
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\bin\Debug\ProbandoLaDesgracia.exe
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\bin\Debug\ProbandoLaDesgracia.pdb
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.csprojAssemblyReference.cache
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.Form1.resources
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.Properties.Resources.resources
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.csproj.GenerateResource.cache
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.exe
+C:\Users\Hecto\Desktop\ProbandoLaDesgracia\ProbandoLaDesgracia\obj\Debug\ProbandoLaDesgracia.pdb

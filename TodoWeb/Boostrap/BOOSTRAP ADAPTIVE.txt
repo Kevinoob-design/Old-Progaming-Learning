@@ -1,0 +1,6 @@
+Up to 12 Grids:
+
+xs(for phones)
+sm(for tablets)
+md(for desktops)
+lg(for larger desktops)

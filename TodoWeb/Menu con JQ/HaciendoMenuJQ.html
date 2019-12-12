@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Menu Con JQ</title>
+
+    <link rel="stylesheet" href="StiloDelMenuJQ.css">
+</head>
+<body>
+
+	<div id="BigMain">
+        <div id="Header">
+               <div id="Logo"><img src="Logo.png" alt=""></div>
+        </div>
+        <div id="Menu">
+            <ul id="MenuFirst">
+                <li><a href="">OPCION1</a></li>
+                <li><a href="">OPCION2</a></li>
+                <li><a href="">OPCION3</a></li>
+                <li><a href="">OPCION4</a></li>
+                 <li><a href="">OPCION5</a></li>
+                <li><a href="">OPCION6</a></li>
+           </ul>
+           <button>More</button>
+           <ul id="MenuBack">
+				<li><a href="">OPCION1</a></li>
+				<li><a href="">OPCION2</a></li>
+				<li><a href="">OPCION3</a></li>
+				<li><a href="">OPCION4</a></li>
+				<li><a href="">OPCION5</a></li>
+				<li><a href="">OPCION6</a></li>
+			</ul>
+        </div>
+        
+    <script src="jquery source.js"></script>
+
+    <script>
+        $(document).ready(function(){
+
+            $("button").click(function(){
+
+                $("#MenuBack").slideToggle();
+            })
+        })
+
+    </script>
+</body>
+</html>

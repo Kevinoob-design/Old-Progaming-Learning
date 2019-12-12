@@ -1,0 +1,10 @@
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\bin\Debug\DobleIfEnForm.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\bin\Debug\DobleIfEnForm.exe
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\bin\Debug\DobleIfEnForm.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.exe
+c:\users\hecto\documents\visual studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\DobleIfEnForm\obj\Debug\DobleIfEnForm.frmclima.resources

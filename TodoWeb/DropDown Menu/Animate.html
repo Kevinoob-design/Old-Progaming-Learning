@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Animaciones CSS</title>
+
+    <link rel="stylesheet" type="text/css" href="animate.css">
+    
+    <style>
+
+        .MyItem{
+            background: red;
+            width: 400px;
+            height: 400px;
+            margin: 300px auto 0 auto;
+
+            -webkit-animation-duration: 0.5s;
+            -webkit-animation-delay: 0.5s;
+        }
+
+    </style>
+</head>
+<body>
+
+    <a href="#" id="HITME">HIT THE FUCK OUT OFF ME</a>
+
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    <div class="MyItem"></div>
+    
+</body>
+
+    <script src="jquery source.js"></script>
+
+    <script>
+
+        var animaciones = ["animated fadeInUp", "animated bounce","animated flipInX","animated zoomIn","animated lightSpeedIn",
+        "animated shake","animated rubberBand","animated pulse","animated bounceIn","bounceInUp"];
+
+        var AnimacionFlag = 0;
+
+        $(document).ready(function(){
+
+            function isScrolledIntoView(element) {
+                // Calculate the current scroll position of the bottom of your
+                // viewport - that's the line an element has to pass to qualify 
+                // for becoming visible
+                var scrollBottomPosition = $(window).scrollTop() + $(window).height();
+
+                // Tell us whether it's true or false that the scroll position of
+                // the top of your element is less than the current scroll position
+                // of the bottom of your viewport - ie the element has entered the
+                // viewport
+                return ($(element).offset().top < scrollBottomPosition);
+            }
+
+
+            // Takes an element as an argument - we'll give it one later.
+            function addClassIfVisible(element) {
+
+                // For each of that element, it asks "Is the element scrolled
+                // into view?" using the function we've made to answer that question.
+                // It'll give us true or false. If true, it adds the "animated fadeInUp" class.
+
+                    $(element).each(function () {
+
+                        if (isScrolledIntoView(this)) {
+
+                            $(this).addClass(animaciones[AnimacionFlag]);
+                        }
+                    });
+                }
+
+            // Run the function once first for any `div`
+            addClassIfVisible('.MyItem');
+
+            // Create an event listener that will run this function for any `div`
+            // every time the user scrolls.
+
+            $(window).scroll(function () {
+                
+                addClassIfVisible('.MyItem');
+            });
+
+            $("#HITME").click(function(){
+
+                AnimacionFlag += 1;
+
+                if(AnimacionFlag >= 9){
+
+                    AnimacionFlag = 0;
+                }
+            });
+        });
+    
+    </script>
+</html>

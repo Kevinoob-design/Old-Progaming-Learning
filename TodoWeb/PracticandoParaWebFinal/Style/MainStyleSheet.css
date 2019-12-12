@@ -1,0 +1,168 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #fff;
+}
+
+#UpMenu, #DownMenu{
+
+    margin-top: 20px;
+    font-size: 120%;
+    margin-left: 10%;
+    padding-bottom: 30px;
+}
+
+div.Logo{
+
+    float: left;
+    margin-left: 10%;
+}
+
+div.Logo img{
+
+    width: 108px;
+
+}
+
+div.Logo2 img{
+
+    width: 90px;
+
+}
+
+.Opciones{
+
+    float: left;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 4px;
+}
+.DownOpciones{
+    
+    clear: left;
+}
+
+#Mas{
+
+    float: left;
+}
+
+.OpcionesParent {
+    top: 60px;
+    position: absolute;
+    display: none;
+    z-index: 1 !important;
+}
+
+.OpcionesMas {
+    float: right;
+    clear: left;
+    list-style: none;
+    background: #f2f2f2;
+    height: 400px;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.OpcionesMas li.NombreOpciones {
+      
+    margin-top: 25px;
+}
+
+.TituloOpciones {
+    font-weight: bold;
+}
+
+.OpcionesDownMenu {
+
+    background: #f2f2f2;
+    padding: 12px;
+    list-style: none;
+    font-size: 110%;
+    position: absolute;
+    z-index: 1;
+    display: none;
+}
+
+.OpcionDown{
+
+    padding: 12px;
+}
+
+.Loguitos{
+
+    width: 70px;
+}
+
+.DivOpciones {
+
+    float: left;
+    text-align: center;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#ContentOpciones{
+
+    padding-right: 800px;
+    padding-left: 800px;
+    clear: both;
+}
+
+#MainContentContainner{
+
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.BigContent {
+
+    float: left;
+    width: 49.3%;
+    margin: 2px;
+}
+
+.BigContent img{
+
+    width: 100%;
+    height: 1222px;
+}
+
+.SmallContent {
+
+    float: left;
+    height: 434px;
+    width: 24.5%;
+    margin: 2px;
+}
+
+#MidContent {
+
+    height: 805px;
+    clear: both;
+
+}
+
+.MyItem {
+
+    -webkit-animation-duration:;
+    -webkit-animation-delay:;
+}
+
+span.Arrow {
+    width: 6px;
+    height: 6px;
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -3px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    transform: rotate(-45deg);
+}

@@ -1,0 +1,18 @@
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Estudiante\Desktop\aqui\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Hecto\Documents\Visual Studio 2017\Projects\Formulario con Ficheros\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

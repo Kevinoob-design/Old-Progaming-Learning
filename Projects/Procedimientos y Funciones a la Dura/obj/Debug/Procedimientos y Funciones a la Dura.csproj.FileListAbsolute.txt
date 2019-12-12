@@ -1,0 +1,9 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\bin\Debug\Procedimientos y Funciones a la Dura.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\bin\Debug\Procedimientos y Funciones a la Dura.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\bin\Debug\Procedimientos y Funciones a la Dura.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos y Funciones a la Dura.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos_y_Funciones_a_la_Dura.Form1.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos_y_Funciones_a_la_Dura.Properties.Resources.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos y Funciones a la Dura.csproj.GenerateResource.Cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos y Funciones a la Dura.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Procedimientos y Funciones a la Dura\obj\Debug\Procedimientos y Funciones a la Dura.pdb

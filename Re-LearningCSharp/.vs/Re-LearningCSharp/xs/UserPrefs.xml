@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{26EEE9FB-750A-4629-AA12-EDE7DD74B56D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitWiseOperators/Program.cs">
+    <Files>
+      <File FileName="BitWiseOperators/Program.cs" Line="37" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Re-LearningCSharp" expanded="True">
+            <Node name="BitWiseOperators" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LearningDelegates" expanded="True" />
+            <Node name="TicTacToe" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BitWiseOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BasicCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Re-LearningCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

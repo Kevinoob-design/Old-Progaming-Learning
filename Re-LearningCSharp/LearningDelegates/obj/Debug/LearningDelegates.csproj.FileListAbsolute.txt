@@ -1,0 +1,7 @@
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\obj\Debug\LearningDelegates.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\obj\Debug\LearningDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\bin\Debug\LearningDelegates.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\bin\Debug\LearningDelegates.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\bin\Debug\LearningDelegates.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\obj\Debug\LearningDelegates.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\LearningDelegates\obj\Debug\LearningDelegates.pdb

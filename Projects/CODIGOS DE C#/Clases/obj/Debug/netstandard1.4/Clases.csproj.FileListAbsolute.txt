@@ -1,0 +1,7 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\bin\Debug\netstandard1.4\Clases.deps.json
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\bin\Debug\netstandard1.4\Clases.dll
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\bin\Debug\netstandard1.4\Clases.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\obj\Debug\netstandard1.4\Clases.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\obj\Debug\netstandard1.4\Clases.AssemblyInfo.cs
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\obj\Debug\netstandard1.4\Clases.dll
+c:\users\hecto\documents\visual studio 2017\Projects\Clases\obj\Debug\netstandard1.4\Clases.pdb

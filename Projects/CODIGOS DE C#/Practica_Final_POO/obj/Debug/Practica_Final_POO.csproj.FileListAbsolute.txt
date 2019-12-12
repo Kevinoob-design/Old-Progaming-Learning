@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\bin\Debug\Practica_Final_POO.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\bin\Debug\Practica_Final_POO.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\bin\Debug\Practica_Final_POO.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Practica_Final_POO\obj\Debug\Practica_Final_POO.pdb

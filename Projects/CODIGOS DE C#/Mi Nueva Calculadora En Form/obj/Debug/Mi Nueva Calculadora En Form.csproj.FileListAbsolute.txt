@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\bin\Debug\Mi Nueva Calculadora En Form.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\bin\Debug\Mi Nueva Calculadora En Form.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\bin\Debug\Mi Nueva Calculadora En Form.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi Nueva Calculadora En Form.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi_Nueva_Calculadora_En_Form.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi_Nueva_Calculadora_En_Form.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi Nueva Calculadora En Form.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi Nueva Calculadora En Form.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Nueva Calculadora En Form\obj\Debug\Mi Nueva Calculadora En Form.pdb

@@ -1,0 +1,15 @@
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\bin\Debug\SOF108.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\bin\Debug\SOF108.exe
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\bin\Debug\SOF108.pdb
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\MainWindow.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\App.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108_MarkupCompile.cache
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108_MarkupCompile.lref
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\MainWindow.baml
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.g.resources
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.exe
+C:\Users\Hecto\OneDrive\Escritorio\SOF108\SOF108\obj\Debug\SOF108.pdb

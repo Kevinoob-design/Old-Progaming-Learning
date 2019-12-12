@@ -1,0 +1,15 @@
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.lref
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.baml
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.g.resources
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.exe
+C:\Users\Hecto\OneDrive\Escritorio\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.pdb

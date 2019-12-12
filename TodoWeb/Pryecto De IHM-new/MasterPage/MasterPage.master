@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Compra Venta</title>
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!----- BOOSTRAP LIBRARY ----->
+    <link href="../bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+
+    <!----- STYLESHEETS ----->
+    <link href="../Style/MainStyleSheet.css" rel="stylesheet" />
+    <link href="../Style/Products_Pages_StyleSheet.css" rel="stylesheet" />
+    <link href="../Style/Img_StyleSheet.css" rel="stylesheet" />
+
+    <!----- JQUERY LIBRARY ----->
+    <script src="../JQueryLibrary/jquery-3.2.1.js"></script>
+
+</head>
+<body>
+    <div id="MainContainer">
+        <div id="FirstSection">
+            <div id="Head">
+                <div id="Header"><img id="ImgLogo" src="../IMGs/Head%20Logo/compra-venta.png" /></div>
+                <div id="Menu">
+                    <ul>
+                        <li><a class="OptionsMenu" href="../Default/Index.aspx">Inicio</a></li>
+                        <li><a class="OptionsMenu" href="#">Especiales del dia</a></li>
+                        <li><a class="OptionsMenu" href="#">Mis Ventas</a></li>
+                        <li><a class="OptionsMenu" href="#">Registrate</a></li>
+                        <li><a class="OptionsMenu" href="#">Iniciar Secion</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <form id="form1" runat="server">
+            <div id="ContentHolder">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+
+        <div id="Footer">
+            <a id="UpButtom" href="#"><div>GO UP</div></a>
+
+            <div class="Footer">
+                <ul>
+                    <li><h3>CONOCENOS!</h3></li>
+                    <li><a href="#">Acerca de Nosotros</a></li>
+                    <li><a href="#">Inversiones y Relaciones</a></li>
+                    <li><a href="#">Nuestros Dispositivos</a></li>
+                </ul>
+            </div>
+            <div class="Footer">
+                <ul>
+                    <li><h3>HAZ DINERO CON NOSOTROS</h3></li>
+                    <li><a href="#">Vende En Nuestra Pagina</a></li>
+                    <li><a href="#">Vende Tu Servicios en Nuestra Pagina</a></li>
+                    <li><a href="#">Vende Tus Aplicaciones en Nuestra Pagina</a></li>
+                    <li><a href="#">Conviertete en Afiliado</a></li>
+                    <li><a href="#">Promociona Tus Productos</a></li>
+                    <li><a href="#">Conviertete en Vendedor</a></li>
+                </ul>
+            </div>
+           <div class="Footer">
+                <ul>
+                    <li><h3>PRIVACIDAD & CONDICIONES DE USO</h3></li>
+                    <li><a href="#">Privacidad</a></li>
+                    <li><a href="#">Condiciones De Uso</a></li>
+                    <li><a href="#">Metodos De Pago</a></li>
+                </ul>
+            </div>
+            <div class="Footer">
+                <ul>
+                    <li><h3>Dejanos Ayudarte</h3></li>
+                    <li><a href="#">Tu Cuenta</a></li>
+                    <li><a href="#">Tus Ordenes </a></li>
+                    <li><a href="#">Politicas de Entrega & Relacionados</a></li>
+                    <li><a href="#">Servicios Premium</a></li>
+                    <li><a href="#">Retornos & Remplazos</a></li>
+                    <li><a href="#">Administra tu Contenido & Dispositivos</a></li>
+                    <li><a href="#">Solicitar Asistencia</a></li>
+                    <li><a href="#">Preguntas Frecuentes</a></li>
+                </ul>
+            </div>
+
+            <div style="background-color: #232f3e; padding-bottom: 30px; text-align: center; color: white;"><h3>&copy; 15/11/2017 Proyecto Final De IHM. We Made This Thing.</h3></div>
+        </div>
+    </div>
+
+    <!------ Java Script & JQueru Library ------>
+
+    <script src="../bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="../bootstrap-3.3.7-dist/js/npm.js"></script>
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>

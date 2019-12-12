@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\bin\Debug\LasSecuenciasForm.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\bin\Debug\LasSecuenciasForm.exe
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\bin\Debug\LasSecuenciasForm.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.exe
+c:\users\hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\LasSecuenciasForm\obj\Debug\LasSecuenciasForm.csprojResolveAssemblyReference.cache

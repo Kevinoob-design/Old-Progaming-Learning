@@ -1,0 +1,75 @@
+﻿body {
+
+}
+
+#HomeContainer {
+    /* background-color: burlywood; */
+    height: auto;
+}
+#ElectronicsContainer {
+    /* background-color: cadetblue; */
+    height: auto;
+}
+#ToolsContainer {
+    /* background-color: chocolate; */
+    height: auto;
+}
+#BooksContainer {
+    /* background-color: cornflowerblue; */
+    height: auto;
+}
+#GamesContainer {
+    /*  background-color: green; */
+    height: auto;
+}
+#SectionName{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-bottom: 35px;
+}
+
+.ProductDiv{
+
+    height: 260px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.PresentationProducts{
+    float: left;
+    width: 50%;
+}
+
+.ImgProduct{
+    float: left;
+    width: 18%;
+}
+
+.Descripcion{
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#Desc1 {
+    background-color: #ce954b;
+}
+
+#Desc2 {
+    background-color: #436e70;
+}
+
+#Desc3 {
+    background-color: #b35919;
+}
+
+#Desc4 {
+    background-color: #1b61e4;
+}
+
+#Desc5 {
+    background-color: #004d00;
+}
+

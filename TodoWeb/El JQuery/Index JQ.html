@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <!-- Estilos -->
+   <link type="text/css" rel="stylesheet" href="Style.css">
+
+   <!-- Librerias de Estilos de la interfaz de usuario de JQuery -->
+   <link type="text/css" rel="stylesheet" href="jquery-ui/jquery-ui.css">
+   <link type="text/css" rel="stylesheet" href="jquery-ui/jquery-ui.structure.css">
+   <link type="text/css" rel="stylesheet" href="jquery-ui/jquery-ui.theme.css">
+
+</head>
+
+<body>            
+     <div id="left">
+         <div id="Panels">
+            <h2>First Left Content Area</h2>
+            <p>This area will contain the left content area.  We will populate this area with images and text.
+            This area will contain the left content area.  We will populate this area with images and text.
+            This area will contain the left content area.  We will populate this area with images and text.
+            </p>
+
+            <h2>Middle Left Content Area</h2>
+            <p>This area will contain the left content area.  We will populate this area with images and text. 
+            This area will contain the left content area.  We will populate this area with images and text.
+            </p>
+
+            <h2>Last Left Content Area</h2>
+            <p>This area will contain the left content area.  We will populate this area with images and text. </p>
+         </div>
+   </div>
+      
+   <div id="center">
+           <h2>Center Content Area</h2>
+            <p>This area will contain the center content area.  This area will contain the main articles. </p>
+    </div>
+
+     <div id="right">
+            <h2>Right Content Area</h2>
+            <p>This area will contain the right content area. We will populate this area with links and text.</p>
+
+            Pick a travel date: <input type="text" id="PickDate">   
+    </div>
+
+    <div id="test">
+        <button> Hit button to change something </button>
+     </div>
+
+<!-- Libreria JQuery -->   
+<script src="jquery source.js"></script>
+
+<!-- Libreria JS de Interfaz Grafica JQuery -->
+<script src="jquery-ui/jquery-ui.js"></script>
+<script>
+    
+    $(document).ready(function(){
+        
+        $("button").click(function(){
+            
+            $("#center").slideToggle({});
+        })
+
+        $("#Panels").accordion({
+            collapsible: true,
+            heightStyle: "content",
+
+            icons: {
+                header: " ui-icon-plus",
+                activeHeader: " ui-icon-closethick"
+            }
+        });
+
+        $("#PickDate").datepicker({
+
+            changeMonth: true, 
+            changeYear: true, 
+            showOtherMonths: true,
+            minDate: new Date(1900, 11, 25),
+            maxDate: new Date(2017, 12, 25)
+        });
+    });
+
+    /*Algunas funciones de JQuery 
+
+     $("p").html("<h2>asjkdas</h2>");
+     $("p").text("asjkdas");
+     $("#center").prepend("<h2>asdasd</h2>");   $("#center").append("<h2>asdasd</h2>");
+     $("#center").replaceWith("sdnajksdkajsdbkasd");
+     $("#center").remove();
+     $("#center").show();
+     $("#center").hide();
+
+     $("#img").tooltip({
+
+            content: "A la verga",
+            tack: true
+        });
+
+    /*
+
+    /*Para alterar clases, o revertir el agregado de clases.
+
+     $("p:last").addClass("para");
+     $("p:first").toggleClass("para");
+
+    */
+    /*Efectos de JQuery.
+
+    $("p:first").fadeOut("7500").fadeIn("7500");
+    $("p:first").fadeTo(2500, 0.5);
+    $("p:first").fadeToggle();
+    $("#center").slideToggle();
+
+    */
+
+    /*Agregando y Removiendo atributoss. 
+
+    $("img").attr("src", "URL DE LA IMAGEN");
+    $("img").removeAttr("src", "URL DE LA IMAGEN");
+    
+    */
+
+     /*JQuery UI. 
+
+    $("#PickDate").datepicker({
+
+            changeMonth: true, 
+            changeYear: true, 
+            showOtherMonths: true,
+            minDate: new Date(1900, 11, 25),
+            maxDate: new Date(2017, 12, 25)
+        });
+    */
+
+</script>
+</body>
+</html>

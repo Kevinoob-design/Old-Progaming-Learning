@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Page With Boostrap</title>
+
+    <!--Boostrap -->
+    <link href="/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!--Main_Style -->
+    <link href="Style/Main_StyleSheet.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    <a href="/Default.aspx">Default</a>
+    <br />
+    <a href="/Pages/Buttons%20Boostrap.aspx">Buttons Boostrap</a>
+    <br />
+    <a href="/Pages/DropDown%20Menu.aspx">DropDown Menu</a>
+    <br />
+    <a href="/Pages/Navigation%20Bar.aspx">Navigation Bar</a>
+
+    <asp:ContentPlaceHolder id="PrincipalContent" runat="server">
+        
+    </asp:ContentPlaceHolder>
+
+    <!-- JQuery -->
+    <script src="/JQuery/jquery-3.2.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/npm.js"></script>
+</body>
+</html>
+
+
+<!-- GRID Layout
+        
+        Up to 12 Grids
+        
+        xs (for phones)
+        sm (for tablets)
+        md (for desktops)
+        lg (for larger desktops)-->

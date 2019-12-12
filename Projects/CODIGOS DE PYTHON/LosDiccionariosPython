@@ -1,0 +1,10 @@
+ElDiccionario={"Alemania": "Berlin", "Francia": "paris"}
+print(ElDiccionario["Alemania"])
+
+ElDiccionario["Nuevo"]="Nuevo Elemento"
+
+print(ElDiccionario)
+
+del ElDiccionario["Nuevo"]
+
+print(ElDiccionario)

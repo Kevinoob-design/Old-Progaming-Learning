@@ -1,0 +1,9 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\bin\Debug\Practicando.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\bin\Debug\Practicando.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\bin\Debug\Practicando.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.Form1.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.Properties.Resources.resources
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.csproj.GenerateResource.Cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Practicando\obj\Debug\Practicando.pdb

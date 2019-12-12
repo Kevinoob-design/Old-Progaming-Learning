@@ -1,0 +1,6 @@
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\bin\Debug\Practice.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\bin\Debug\Practice.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\bin\Debug\Practice.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\obj\Debug\Practice.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\Practice\obj\Debug\Practice.pdb

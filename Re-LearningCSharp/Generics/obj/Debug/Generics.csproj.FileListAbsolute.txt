@@ -1,0 +1,14 @@
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.exe.config
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.pdb
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.csprojAssemblyReference.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.csproj.CoreCompileInputs.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.exe.config
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/bin/Debug/Generics.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.csprojAssemblyReference.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.csproj.CoreCompileInputs.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Generics/obj/Debug/Generics.pdb

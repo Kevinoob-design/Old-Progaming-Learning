@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\bin\Debug\Continuando_La_Practica.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\bin\Debug\Continuando_La_Practica.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\bin\Debug\Continuando_La_Practica.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Continuando_La_Practica\obj\Debug\Continuando_La_Practica.pdb

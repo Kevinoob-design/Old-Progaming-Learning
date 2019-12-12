@@ -1,0 +1,6 @@
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\bin\Debug\Mi Primer Objeto.exe.config
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\bin\Debug\Mi Primer Objeto.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\bin\Debug\Mi Primer Objeto.pdb
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\obj\Debug\Mi Primer Objeto.csprojResolveAssemblyReference.cache
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\obj\Debug\Mi Primer Objeto.exe
+C:\Users\Hecto\documents\visual studio 2017\Projects\Mi Primer Objeto\obj\Debug\Mi Primer Objeto.pdb

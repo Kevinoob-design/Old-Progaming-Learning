@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+
+    height: 200px;
+}
+
+#LogoContainer{
+
+    margin-left: 20%;
+    float: left;
+}
+
+#Menu{
+
+    float: right;
+    padding-top: 1%;
+}
+
+div.Opcion{
+
+    float: left;
+    margin-right: 0px;
+    padding: 12px;
+    text-align: center;
+}
+
+.DropDownMenu{
+
+    display: none;
+    position: absolute !important;
+}
+
+.ContainerDropDown{
+
+    list-style: none;
+}
+.DropOpcion{
+
+    padding: 10px;
+    background: #676767;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}
+
+h2, h3{
+    text-align: center;
+    clear: both;
+    border-top: 1px solid black;
+}
+
+h3{
+    border-bottom: 1px solid black; 
+    text-align: center;
+    clear: both;
+}   
+
+.anuncions{
+    
+    margin-right: 40%;
+    clear: both;
+    width: 100%;
+}
+
+.medio{
+    text-align: center;
+}

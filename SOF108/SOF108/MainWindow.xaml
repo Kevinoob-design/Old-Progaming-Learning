@@ -1,0 +1,38 @@
+﻿<Window x:Class="SOF108.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SOF108"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
+
+    <StackPanel>
+        <TabControl  Height="410" VerticalAlignment="Top">
+            <TabItem Header="Employee Data">
+                <Grid  Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid x:Name="DataShowEmploye" Grid.Column="0"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Employee Data History">
+                <Grid  Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <DataGrid x:Name="DataShowHistory" Height="400" Grid.Column="0"/>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+       
+    </StackPanel>
+</Window>

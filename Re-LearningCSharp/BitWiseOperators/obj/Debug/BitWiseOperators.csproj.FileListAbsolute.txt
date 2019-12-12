@@ -1,0 +1,14 @@
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.exe.config
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.pdb
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.csprojAssemblyReference.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.csproj.CoreCompileInputs.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.exe.config
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/bin/Debug/BitWiseOperators.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.csprojAssemblyReference.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.csproj.CoreCompileInputs.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BitWiseOperators/obj/Debug/BitWiseOperators.pdb

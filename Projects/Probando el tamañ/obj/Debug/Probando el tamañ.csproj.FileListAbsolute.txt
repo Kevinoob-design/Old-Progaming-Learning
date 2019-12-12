@@ -1,0 +1,9 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\bin\Debug\Probando el tamañ.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\bin\Debug\Probando el tamañ.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\bin\Debug\Probando el tamañ.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando el tamañ.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando_el_tamañ.Form1.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando_el_tamañ.Properties.Resources.resources
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando el tamañ.csproj.GenerateResource.Cache
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando el tamañ.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Probando el tamañ\obj\Debug\Probando el tamañ.pdb

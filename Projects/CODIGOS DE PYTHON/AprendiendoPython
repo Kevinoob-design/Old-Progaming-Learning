@@ -1,0 +1,37 @@
+#Metodos y Funciones
+def tu_madrina():
+	print("esto se ira a la vergasa")
+
+	if 5 > 6:
+		print("lolaso")
+
+	for i in range(5):
+		print (i)
+	
+def Suma(num1, num2):
+	suma = (num1 + num2)
+	return suma
+
+print("Ingrese el numero 1: ")
+
+numero1 = input()
+
+print("ingrese el numero2: ")
+numero2 = input()
+
+print(Suma(numero1,numero2))
+
+#los array de aqui palla
+UnArray = ["klk", 5, True]
+
+UnArray.extend("klkconklk")
+UnArray.insert(2,"yolo")
+
+print(UnArray[:])
+
+
+
+
+
+
+

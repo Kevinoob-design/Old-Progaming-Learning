@@ -1,0 +1,54 @@
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.InformationStudentInterface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.InformationTeacherIntercace.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Login.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.NewTeacherInterface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.QAForStudentInterface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.ScheduleSectionsForStudent.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Sections.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.SectionTeacherInterface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.StudentLogin.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Student_Interface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.TeacherLogin.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Teacher_Interface.resources
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.exe.config
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.exe
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.pdb
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.CopyComplete
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.exe
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.pdb
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialSkin.dll
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hecto\OneDrive\Cuatrimestre Enero - Abril 2019\BDD Project\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.exe
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\Sistema_Control_Estudiantil.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialSkin.dll
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.InformationStudentInterface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.InformationTeacherIntercace.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Login.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.NewTeacherInterface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.QAForStudentInterface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.ScheduleSectionsForStudent.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Sections.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.SectionTeacherInterface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.StudentLogin.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Student_Interface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.TeacherLogin.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.Teacher_Interface.resources
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csproj.CopyComplete
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.exe
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Sistema_Control_Estudiantil\Sistema_Control_Estudiantil\obj\Debug\Sistema_Control_Estudiantil.csprojAssemblyReference.cache

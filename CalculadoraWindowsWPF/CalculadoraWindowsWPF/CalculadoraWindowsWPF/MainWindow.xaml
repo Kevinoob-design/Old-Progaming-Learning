@@ -1,0 +1,132 @@
+﻿<Window x:Class="CalculadoraWindowsWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculadoraWindowsWPF"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="520" Width="335" ResizeMode="NoResize">
+
+    <Grid Background="#262626">
+        <!--<Canvas Background="black" Height="45" VerticalAlignment="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+            <Button Content="R" HorizontalAlignment="Left" Grid.Column="0" Height="25" Width="25"/>
+            <Button Content="T" HorizontalAlignment="Left" Grid.Column="1" Height="25" Width="25"/>
+        </Canvas>-->
+
+        <DockPanel VerticalAlignment="top" Height="45">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="240"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Foreground="White" Background="{x:Null}" Content="R" HorizontalAlignment="Left" Grid.Column="0" Height="45" Width="45"/>
+                <Label Foreground="White" FontSize="20" Content="Estandar" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Column="1" Height="44" Width="100" Background="{x:Null}"/>
+                <Button Foreground="White" Background="{x:Null}" Content="E" HorizontalAlignment="Right" Grid.Column="2" Height="45" Width="45"/>
+            </Grid>
+        </DockPanel>
+
+        <DockPanel VerticalAlignment="Top" Height="25" Margin="0,45,0,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label FontWeight="DemiBold" Foreground="DarkGray" Background="{x:Null}" Content="0" Height="24" Width="317" Grid.Column="0" HorizontalContentAlignment="Right"/>
+            </Grid>
+        </DockPanel>
+        
+        <DockPanel VerticalAlignment="Top" Height="50" Margin="0,70,0,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label FontSize="35" Foreground="White" FontWeight="Medium" Content="0" Height="49" Width="320" Grid.Column="0" HorizontalContentAlignment="Right"/>
+            </Grid>
+        </DockPanel>
+
+        <DockPanel VerticalAlignment="top" Height="25" Margin="0,120,0,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Foreground="White" Background="{x:Null}" Content="MC" HorizontalAlignment="Right" Grid.Column="0" Height="25" Width="56"/>
+                <Button Foreground="White" Background="{x:Null}" Content="MR" HorizontalAlignment="Right" Grid.Column="1" Height="25" Width="56"/>
+                <Button Foreground="White" Background="{x:Null}" Content="M+" HorizontalAlignment="Right" Grid.Column="2" Height="25" Width="56"/>
+                <Button Foreground="White" Background="{x:Null}" Content="M-" HorizontalAlignment="Right" Grid.Column="3" Height="25" Width="56"/>
+                <Button Foreground="White" Background="{x:Null}" Content="MS" HorizontalAlignment="Right" Grid.Column="4" Height="25" Width="56"/>
+                <Button Foreground="White" Background="{x:Null}" Content="M▾" HorizontalAlignment="Right" Grid.Column="5" Height="25" Width="56"/>
+            </Grid>
+        </DockPanel>
+
+        <DockPanel Margin="5,150,5,5">
+
+            <!--//#131313 and #080808-->
+            <Grid Background="#1a1a1a">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="%" HorizontalAlignment="Center" Grid.Column="0" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="√" HorizontalAlignment="Center" Grid.Column="1" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="×²" HorizontalAlignment="Center" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="¹/×" HorizontalAlignment="Center" Grid.Column="3" Width="80"/>
+
+                <Button FontSize="15" Foreground="White" Background="{x:Null}" Content="CE" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0" Width="80"/>
+                <Button FontSize="15" Foreground="White" Background="{x:Null}" Content="C" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Width="80"/>
+                <Button FontSize="15" Foreground="White" Background="{x:Null}" Content="⌫" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="÷" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="3" Width="80"/>
+
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="7" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="0" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="8" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="1" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="9" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="x" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="3" Width="80"/>
+
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="4" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="0" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="5" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="1" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="6" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="-" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="3" Width="80"/>
+
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="1" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="0" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="2" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="1" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="3" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="+" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="3" Width="80"/>
+
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="±" HorizontalAlignment="Center" Grid.Row="5" Grid.Column="0" Width="80"/>
+                <Button FontSize="30" Foreground="White" Background="#000000" Content="0" HorizontalAlignment="Center" Grid.Row="5" Grid.Column="1" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="." HorizontalAlignment="Center" Grid.Row="5" Grid.Column="2" Width="80"/>
+                <Button FontSize="20" Foreground="White" Background="{x:Null}" Content="=" HorizontalAlignment="Center" Grid.Row="5" Grid.Column="3" Width="80"/>
+
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

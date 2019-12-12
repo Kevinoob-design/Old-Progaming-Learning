@@ -1,0 +1,20 @@
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.exe.config
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.pdb
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csprojAssemblyReference.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.Form1.resources
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.Properties.Resources.resources
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csproj.GenerateResource.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csproj.CoreCompileInputs.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.exe.config
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/bin/Debug/BasicCalculator.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csprojAssemblyReference.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.Form1.resources
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.Properties.Resources.resources
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csproj.GenerateResource.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.csproj.CoreCompileInputs.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/BasicCalculator/obj/Debug/BasicCalculator.pdb

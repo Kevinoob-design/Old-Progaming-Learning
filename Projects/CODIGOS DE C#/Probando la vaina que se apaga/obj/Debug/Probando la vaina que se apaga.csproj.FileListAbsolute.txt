@@ -1,0 +1,5 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Probando la vaina que se apaga\bin\Debug\Probando la vaina que se apaga.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Probando la vaina que se apaga\bin\Debug\Probando la vaina que se apaga.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Probando la vaina que se apaga\bin\Debug\Probando la vaina que se apaga.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Probando la vaina que se apaga\obj\Debug\Probando la vaina que se apaga.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Probando la vaina que se apaga\obj\Debug\Probando la vaina que se apaga.pdb

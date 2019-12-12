@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #0f86ba;
+
+}
+
+#LoginDiv {
+
+    background-color: white;
+    border: 1px solid black;
+    margin: auto;
+    width: 500px;
+    height: 400px;
+}
+
+#LoginTittle {
+    background-color: #81aabb;
+    width: 500px;
+    float: left;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+#LoginBox {
+    margin: auto;
+    width: 400px;
+    height: 350px;
+}
+
+.LoginText{
+
+    font-size: 14pt;
+    width: 390px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.SubmitLoad{
+
+    float: left;
+    margin-right: 20px;
+}

@@ -1,0 +1,15 @@
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\App.g.cs
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Hecto\OneDrive\Escritorio\Re-LearningCSharp\TicTacToe\obj\Debug\TicTacToe.pdb

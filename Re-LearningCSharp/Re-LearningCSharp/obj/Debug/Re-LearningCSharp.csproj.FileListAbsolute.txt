@@ -1,0 +1,14 @@
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.exe.config
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.pdb
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.csprojAssemblyReference.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.csproj.CoreCompileInputs.cache
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.exe
+C:/Users/Hecto/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.exe.config
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/bin/Debug/Re-LearningCSharp.pdb
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.csprojAssemblyReference.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.csproj.CoreCompileInputs.cache
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.exe
+/Users/hector/One Drive/OneDrive/Escritorio/Re-LearningCSharp/Re-LearningCSharp/obj/Debug/Re-LearningCSharp.pdb

@@ -1,0 +1,6 @@
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\bin\Debug\Mi Primera Consola en C Sharp.exe.config
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\bin\Debug\Mi Primera Consola en C Sharp.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\bin\Debug\Mi Primera Consola en C Sharp.pdb
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\obj\Debug\Mi Primera Consola en C Sharp.csprojResolveAssemblyReference.cache
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\obj\Debug\Mi Primera Consola en C Sharp.exe
+c:\users\hecto\documents\visual studio 2017\Projects\Mi Primera Consola en C Sharp\obj\Debug\Mi Primera Consola en C Sharp.pdb

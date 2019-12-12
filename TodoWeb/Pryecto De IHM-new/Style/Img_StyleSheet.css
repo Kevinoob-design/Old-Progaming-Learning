@@ -1,0 +1,21 @@
+﻿body {
+
+}
+
+#ImgLogo {
+    width: 300px;
+    height: 100px;
+}
+
+.img{
+   width: 100px;
+   height: 100px;
+}
+
+/* ----- Products-Row Img ----- */
+
+.ImgC{
+    width:100%;
+    height: 175px;
+
+}
